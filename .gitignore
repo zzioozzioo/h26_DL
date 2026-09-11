@@ -1,2 +1,5 @@
 daycon/security_log_train.csv
 daycon/security_log_test.csv
+yolo/mask_images/
+yolo/masked_man/
+.env
