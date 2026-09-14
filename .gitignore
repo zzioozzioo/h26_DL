@@ -1,5 +1,16 @@
+.env
+
+# 대용량 파일 및 폴더 제외
 daycon/security_log_train.csv
 daycon/security_log_test.csv
 yolo/mask_images/
 yolo/masked_man/
-.env
+
+# 파이썬 캐시 파일 및 폴더 제외
+__pycache__/
+*.pyc
+
+# 학습된 모델 가중치 파일 제외
+*.pth
+*.tar
+Pytorch_Retinaface/weights
