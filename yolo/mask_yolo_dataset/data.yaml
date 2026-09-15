@@ -1,0 +1,8 @@
+train: D:/Lecture/ai_project01/yolo/mask_yolo_dataset/images/train
+val: D:/Lecture/ai_project01/yolo/mask_yolo_dataset/images/val
+
+names:
+  0: mask_on
+  1: no_mask
+
+nc: 2
