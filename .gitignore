@@ -8,6 +8,8 @@ yolo/masked_man/
 yolo/labels
 yolo/mask_yolo_dataset/images
 yolo/mask_yolo_dataset/labels
+yolo/results
+yolo/runs
 
 # 파이썬 캐시 파일 및 폴더 제외
 __pycache__/
